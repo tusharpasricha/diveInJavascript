@@ -1,10 +1,13 @@
-// getName();
-// console.log(getName);
-// console.log(x);
-// var x = 10;
-// function getName(){
-//     console.log("Tushar")
-// }
+getName();
+
+//console.log(getName);
+
+console.log(x);
+
+var x = 10;
+function getName(){
+    console.log("Tushar")
+}
 // var getName =()=>{
 //     console.log("srrgfg")
 // }
